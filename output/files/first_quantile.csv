@@ -1,0 +1,14 @@
+feature,result
+age,51.0
+anaemia,0.0
+creatinine_phosphokinase,116.5
+diabetes,0.0
+ejection_fraction,30.0
+high_blood_pressure,0.0
+platelets,212500.0
+serum_creatinine,0.9
+serum_sodium,134.0
+sex,0.0
+smoking,0.0
+time,73.0
+DEATH_EVENT,0.0
